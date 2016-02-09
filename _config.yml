@@ -1,0 +1,28 @@
+name: Osmiridium
+favicon: null
+layout_spectrum: 0.023645759327337146
+typography_spectrum: 0.16374171106144786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#c3c5c7'
+    - '#9dcdf0'
+    - '#c2dff5'
+    - '#e7e8e9'
+  brandStrength: 0.7865417830180377
+  lightness: 0.2999493277166039
+  saturation: 0.05978126381523907
+  rhythmicContrast: 0.23666683724150062
+purpose: []
